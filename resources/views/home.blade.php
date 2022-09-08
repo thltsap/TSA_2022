@@ -11,7 +11,9 @@
                 <div class="welcome-wrapper">
                     <h2 class="welcome-title text-uppercase">Welcome</h2>
                     <img src="img/welcome-divider-lines.png" alt="Welcome divider" class="welcome-divider-lines-img">
-                    <p class="welcome-description">Multi Profile is free responsive website template for everyone. Feel free to download and use this template for your websites. Thank you for visiting templatemo.</p>
+                    <p class="welcome-description">Komisi Pemilihan Umum (KPU) adalah lembaga Penyelenggara Pemilu yang bersifat nasional, 
+                        tetap, dan mandiri yang bertugas melaksanakan Pemilu. KPU Provinsi dan KPU Kabupaten/Kota adalah Penyelenggara Pemilu 
+                        di Provinsi dan Kabupaten/Kota. Wilayah kerja KPU meliputi seluruh wilayah Negara Kesatuan Republik Indonesia.</p>
                 </div>
             </div>
         </div>
